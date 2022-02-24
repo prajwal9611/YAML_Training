@@ -1,0 +1,12 @@
+Sports :
+ - Name : Cricket
+   Players in team : 11
+   Outdoor Game : yes
+
+ - Name : Football
+   Players : 11
+   Outdoor game : true
+
+ - Name : Chess
+   Players : 2
+   Outdoor game : false

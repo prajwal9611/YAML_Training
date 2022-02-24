@@ -1,0 +1,20 @@
+Sports :
+ - Name : Cricket
+   Players : 11
+   outdoor game : true
+   Types of Player : 
+    - Batsmans
+    - Ballers 
+    - Wicketkeeper 
+    - Filders
+    - Allrounders
+  
+ - Name : Football
+   Players : 11
+   Outdoor game : true
+   Types of Player :
+    - Attackers
+    - Midfilders
+    - Defenders
+    - Goolkeeper
+    

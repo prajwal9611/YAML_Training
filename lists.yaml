@@ -1,0 +1,19 @@
+---
+Sports :
+ - Name : Cricket
+   Players : 11
+   outdoor game : true
+  
+ - Name : Chess
+   Players : 2
+   Outdoor game : false
+
+Adventure Sports :
+ - Name : Sky Diving
+   Mode of sports: Sky
+
+ - Name : River rafting
+   Mode of sports: water
+
+ - Name : Dirt Biking
+   Mode of sports: land 
